@@ -19,7 +19,6 @@ class Header extends PureComponent<HeaderProps, HeaderState> {
           <a href="/about">О нас</a>
           <a href="/blog">Блог</a>
           <a href="/cart">Корзина</a>
-          <a href="/message">Сообщение</a>
         </div>
       </div>
     );
